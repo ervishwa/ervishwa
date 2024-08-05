@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vishwjeet thakur</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi 👋, I'm Vishwjeet Thakur</h1>
+<h3 align="center">A Passionate Full Stack Developer Crafting Digital Experiences from India</h3>
+
+<p align="center">
+  I thrive on creating innovative web applications that bring ideas to life. With a knack for both frontend and backend development, I transform complex problems into intuitive, user-friendly solutions. From crafting sleek and responsive interfaces to developing powerful server-side logic, I'm dedicated to delivering exceptional digital experiences.
+</p>
 <img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ervishwa&label=Profile%20views&color=0e75b6&style=flat" alt="ervishwa" /> </p>
 
