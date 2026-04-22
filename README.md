@@ -22,11 +22,11 @@
 <a href="https://www.linkedin.com/in/vishwjeetthakur4298/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
-<a href="https://instagram.com/vishnu thakur" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="30" />
+<a href="https://x.com/____Vishwa___" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="30" />
 </a>
 <a href="https://leetcode.com/Ervishwjeetthakur/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="30" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
 </a>
 </p>
 
