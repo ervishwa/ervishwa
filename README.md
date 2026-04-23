@@ -1,32 +1,40 @@
-<h1 align="center">Hi 👋, I'm Vishwjeet Thakur</h1>
-<h3 align="center">🚀 Full Stack Developer from India</h3>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  Hi 👋, I'm Vishwjeet Thakur
+</h1>
 
 <p align="center">
-  I build scalable web applications and love turning complex problems into simple, user-friendly solutions.
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Things" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ervishwa&label=👀+Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack Developer  
-- 🌱 Currently improving **Backend + DevOps skills**  
-- ⚡ Love building real-world products  
-- 📫 Reach me at: **ervishwjeetthakur@gmail.com**
+- 💼 Full Stack Developer (MERN)
+- 🌱 Currently mastering **Backend + DevOps**
+- ⚡ Love building real-world scalable apps
+- 🧠 Problem solver (DSA + System Design)
+- 📫 Reach me: **ervishwjeetthakur@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vishwjeetthakur4298/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
 </a>
 <a href="https://x.com/____Vishwa___" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="30" />
+  <img src="https://skillicons.dev/icons?i=twitter" height="35" />
 </a>
 <a href="https://leetcode.com/Ervishwjeetthakur/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" />
 </a>
 </p>
 
@@ -34,8 +42,8 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgresql,mysql,html,css,bootstrap,git,webpack,firebase,java,babel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgresql,mysql,html,css,tailwind,bootstrap,git,github,webpack,firebase,java,babel,docker" />
 </p>
 
 ---
@@ -59,5 +67,11 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ervishwa&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ervishwa&theme=radical&row=1&column=6" />
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+> I turn ☕ into scalable code and ideas into real-world products 🚀
